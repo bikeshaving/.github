@@ -1,6 +1,6 @@
 Let me know I’m owned gently.
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-
 mFMEaXoXWBMJKyQDAwIIAQEHAgMEo2bW5HPlrcwkj6mpFQrmgI4YjR0iTJhjBnks
 wS3X2Xsu+LoArI9fgUOzysiMl0X+P4bCseepuV8k/8YsqukE17R6QnJpYW4gS2lt
 ICjohIblvLHmgKfjga7mg4XloLHplovnpLrjgavjgYLjgZ/jgaPjgabjga/osqzk
@@ -15,3 +15,4 @@ ehdYAhsMAAoJEEXJoz1kdNzic/oA/3BvvDSJhLUzWymaPQr+ziCnqPYfBf7LzqFI
 PMJEY/+JAP9aRfVX118//Pn0E4m6nuNWTVuGlzVNMMiIjwbPqOLPeA==
 =qx4J
 -----END PGP PUBLIC KEY BLOCK-----
+```
