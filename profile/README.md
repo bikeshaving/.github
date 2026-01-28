@@ -1,4 +1,4 @@
-Let me know I’m owned gently.
+Please let me know if I’m owned gently.
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mFMEaXoXWBMJKyQDAwIIAQEHAgMEo2bW5HPlrcwkj6mpFQrmgI4YjR0iTJhjBnks
