@@ -1,4 +1,5 @@
-Please let us know if we’re owned *gently*.
+To responsibly disclose security vulnerabilities with any libraries here please email `security@bikeshaving.org`.
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mFMEaXoXWBMJKyQDAwIIAQEHAgMEo2bW5HPlrcwkj6mpFQrmgI4YjR0iTJhjBnks
