@@ -1,4 +1,4 @@
-To responsibly disclose security vulnerabilities with any libraries here please email `security@bikeshaving.org`.
+To responsibly disclose security vulnerabilities with any libraries published under this organization here please email `security@bikeshaving.org`.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
